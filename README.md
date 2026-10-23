@@ -10,7 +10,7 @@ A software-first presentation of Python and SQL applications, data workflows, pr
 - FlowCheck: browser reconciliation demo and a separate Python/SQLite reference repository.
 - AIncident: product-delivery and commercial-sale case study; original sold source is not redistributed.
 - ShiftLens: reproducible SQL, DAX/Power BI project, and browser analytics. Native Power BI Desktop rendering remains unverified.
-- SFS Warehouse and Relay Logistics: private application pilots, summarized with limits on the portfolio.
+- SFS Warehouse: public application source; Relay Logistics: private source. Both are development pilots, summarized with limits on the portfolio.
 - Sort planner and dispatch dashboard: interactive synthetic-data demonstrations.
 
 ## Run
