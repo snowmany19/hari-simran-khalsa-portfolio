@@ -14,7 +14,7 @@ Retail incident-reporting teams need to document an event, review a clear narrat
 - Stripe subscription billing.
 
 ## Responsibility
-Founder and lead developer: requirements, development, deployment, and commercialization. The published stack includes Python, FastAPI, PostgreSQL, and React.js.
+Founder and lead developer: requirements, development, deployment, and commercialization. The application stack includes Python, FastAPI, PostgreSQL, and React.js. The delivery stack includes GitHub Actions, AWS hosting, Docker, and Kubernetes.
 
 ## Outcome
 The original listing shows one active subscriber and $29 MRR. The sale screenshot shows the $4,995 sale. These commercial outcomes are distinct from operational efficiency metrics.
