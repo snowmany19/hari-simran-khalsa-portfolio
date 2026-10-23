@@ -6,6 +6,10 @@ Technical portfolio for [snowmany19](https://github.com/snowmany19). Contact: sn
 
 A software-first presentation of Python and SQL applications, data workflows, product delivery, and systems implementation experience. Employment titles remain visible next to technical focus areas.
 
+## Technical resume
+
+[Download PDF](Hari_Simran_Khalsa_Technical_Resume.pdf) · [Download Word](Hari_Simran_Khalsa_Technical_Resume.docx)
+
 ## Featured work
 - FlowCheck: browser reconciliation demo and a separate Python/SQLite reference repository.
 - AIncident: product-delivery and commercial-sale case study; original sold source is not redistributed.
