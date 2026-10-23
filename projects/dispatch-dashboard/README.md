@@ -1,6 +1,6 @@
 # Dispatch exception dashboard
 
-[Working demo](https://sfskhalsa101.github.io/hari-simran-khalsa-portfolio/projects/dispatch-dashboard/)
+[Working demo](https://snowmany19.github.io/hari-simran-khalsa-portfolio/projects/dispatch-dashboard/)
 
 **User:** dispatcher reviewing a shift snapshot.
 

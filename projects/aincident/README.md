@@ -1,6 +1,6 @@
 # AIncident — from incident reporting to a commercial SaaS sale
 
-[Read the case study](https://sfskhalsa101.github.io/hari-simran-khalsa-portfolio/projects/aincident/)
+[Read the case study](https://snowmany19.github.io/hari-simran-khalsa-portfolio/projects/aincident/)
 
 AIncident was an AI-powered incident-reporting SaaS product built and deployed by Hari Simran Khalsa through Security Flaw Solutions and sold through Flippa for **$4,995**.
 

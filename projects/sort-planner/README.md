@@ -1,6 +1,6 @@
 # Sort staffing and door-assignment tool
 
-[Working demo](https://sfskhalsa101.github.io/hari-simran-khalsa-portfolio/projects/sort-planner/)
+[Working demo](https://snowmany19.github.io/hari-simran-khalsa-portfolio/projects/sort-planner/)
 
 **User:** sort supervisor planning an inbound shift.
 
